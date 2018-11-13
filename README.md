@@ -9,7 +9,7 @@ Author Ankur Patel—an applied machine-learning researcher and data scientist w
 
 Chapters for this Early Release edition will be available as they are completed, including the first five chapters in this initial release:
 
-*Examine the difference between supervised and unsupervised learning, and the relative strengths and weaknesses of each
-*Set up and manage a machine learning project end-to-end—everything from data acquisition to building a model and implementing a solution in production
-*Explore dimensionality reduction algorithms that learn the underlying structure of a dataset’s most salient information
-*Build a credit card fraud detection system using dimensionality reduction methods
+* Examine the difference between supervised and unsupervised learning, and the relative strengths and weaknesses of each
+* Set up and manage a machine learning project end-to-end—everything from data acquisition to building a model and implementing a solution in production
+* Explore dimensionality reduction algorithms that learn the underlying structure of a dataset’s most salient information
+* Build a credit card fraud detection system using dimensionality reduction methods
