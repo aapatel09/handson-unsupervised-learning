@@ -1,4 +1,4 @@
-# Code for Hands-on Unsupervised Learning Using Python (O'Reilly Media)
+# Code for Hands-on Unsupervised Learning Using Python (O'Reilly Media, Inc.)
 
 https://www.oreilly.com/library/view/hands-on-unsupervised-learning/9781492035633/
 
