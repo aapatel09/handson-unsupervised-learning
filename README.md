@@ -1,7 +1,7 @@
-# Code for Hands-on Unsupervised Learning Using Python (O'Reilly Media, Inc.)
+# Code for Hands-on Unsupervised Learning Using Python: How to Build Applied Machine Learning Solutions from Unlabeled Data (O'Reilly Media, Inc.)
 
-https://www.amazon.com/Hands-Unsupervised-Learning-Using-Python/dp/1492035645
-https://www.oreilly.com/library/view/hands-on-unsupervised-learning/9781492035633/
+Available on Amazon: https://www.amazon.com/Hands-Unsupervised-Learning-Using-Python/dp/1492035645
+Available on O'Reilly Safari: https://www.oreilly.com/library/view/hands-on-unsupervised-learning/9781492035633/
 
 Book Description
 
