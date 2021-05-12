@@ -1,0 +1,6 @@
+setuptools==53.1.0
+awscli==1.19.28
+fastcluster==1.1.26
+
+# Install locally
+-e .

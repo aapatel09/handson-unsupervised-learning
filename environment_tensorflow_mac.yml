@@ -1,0 +1,37 @@
+name: tensorflow_mac
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - grpcio=1.37.0
+  - h5py=3.2.1
+  - ipython=7.22.0
+  - numpy=1.20.2
+  - pip=20.2.4
+  - python=3.8.8
+  - scipy=1.6.2
+  - termcolor=1.1.0
+  - typeguard=2.12.0
+  - wheel=0.36.2
+  - absl-py=0.12.0
+  - astunparse=1.6.3
+  - python-flatbuffers=1.12
+  - gast=0.4.0
+  - google-pasta=0.2.0
+  - keras-preprocessing=1.1.2
+  - opt_einsum=3.3.0
+  - protobuf=3.15.8
+  - tensorboard=2.4.1
+  - tensorflow-estimator=2.4.0
+  - termcolor=1.1.0
+  - typing_extensions=3.7.4.3
+  - wrapt=1.12.1
+  - jupyterlab=3.0.14
+  - pandas=1.2.4
+  - seaborn=0.11.1
+  - scikit-learn=0.24.1
+  - matplotlib=3.4.1
+  - notebook=6.3.0
+  - nb_conda=2.2.1
+  - lightgbm=3.2.1
+  - ipywidgets=7.6.3

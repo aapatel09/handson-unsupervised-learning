@@ -1,0 +1,4 @@
+tensorflow-datasets==4.2.0
+
+# Install locally
+-e .

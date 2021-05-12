@@ -1,0 +1,9 @@
+setuptools==53.1.0
+wheel==0.36.2
+awscli==1.19.28
+tensorflow==2.4.1
+fastcluster==1.1.26
+cython==0.29.23
+
+# Install locally
+-e .

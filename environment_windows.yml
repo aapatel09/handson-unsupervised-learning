@@ -1,0 +1,20 @@
+name: unsupervisedLearning
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - numpy=1.20.2
+  - pandas=1.2.4
+  - scipy=1.6.2
+  - matplotlib=3.4.1
+  - scikit-learn=0.24.1
+  - jupyterlab=3.0.14
+  - notebook=6.3.0
+  - wheel=0.36.2
+  - seaborn=0.11.1
+  - python=3.8.8
+  - ipywidgets=7.6.3
+  - nb_conda=2.2.1
+  - lightgbm=3.2.1
+  - git-lfs=2.13.3
+  - hdbscan=0.8.27
