@@ -1,5 +1,5 @@
 setuptools==53.1.0
-wheel==0.36.2
+wheel==0.38.1
 awscli==1.19.28
 tensorflow==2.5.0
 fastcluster==1.1.26
