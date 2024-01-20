@@ -63,10 +63,10 @@ For **macOS**:
 	pip install -r requirements_mac.txt
     ```
 
-5) Download data from AWS S3 (files are too large to store and access on Github).
+5) Download data from Google Drive (files are too large to store and access on Github).
 
     ```
-	aws s3 cp s3://handson-unsupervised-learning/datasets/ datasets --recursive --no-sign-request
+	https://drive.google.com/drive/folders/1TQVOPUU4tVOYZvdpbxUo6uOCh0jvWNhv?usp=sharing
     ```
 
 6) Run the notebooks using Jupyter.
